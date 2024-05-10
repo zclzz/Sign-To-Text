@@ -15,5 +15,4 @@ Data for this version of the model contains 7 phrases x 30 videos x 30 frames. T
 
 Simply run:
 
-	```bash
 	python model1.py
